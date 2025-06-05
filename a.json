@@ -1,1 +1,27 @@
-{}
+{
+  "api": "http://5.38.85.76:3582/send",
+  "video": "http://5.38.85.76:3582/get-video",
+  "ejbar": "http://5.38.85.76:3582/get-ejbar",
+  "client": {
+    "app_name": "Main",
+    "app_version": "3.8.2",
+    "lang_code": "fa",
+    "package": "app.rbmain.a",
+    "temp_code": "30",
+    "store": "Direct",
+    "platform": "Android"
+  },
+  "url": [
+    "https://messengerg2c1.iranlms.ir/",
+    "https://messengerg2c2.iranlms.ir/",
+    "https://messengerg2c3.iranlms.ir/",
+    "https://messengerg2c4.iranlms.ir/"
+  ],
+  "request": [
+    True,
+    True,
+    False,
+    False,
+    False
+  ]
+}
