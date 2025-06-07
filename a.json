@@ -13,9 +13,15 @@
   },
   "url": [
     "https://messengerg2c1.iranlms.ir/",
-    "https://messengerg2c2.iranlms.ir/",
-    "https://messengerg2c3.iranlms.ir/",
-    "https://messengerg2c4.iranlms.ir/"
+    "https://messengerg2c1.iranlms.ir/",
+    "https://messengerg2c1.iranlms.ir/",
+    "https://messengerg2c1.iranlms.ir/"
+  ],
+  "url2": [
+    "https://rubino2.iranlms.ir/",
+    "https://rubino3.iranlms.ir/",
+    "https://rubino3.iranlms.ir/",
+    "https://rubino4.iranlms.ir/"
   ],
   "request": [
     True,
